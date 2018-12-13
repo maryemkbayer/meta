@@ -1,0 +1,129 @@
+
+
+h1 {
+    color: red;
+    font-size: 100px
+}
+
+a {
+    color: violet;
+    background-color: blue;
+    border: 1px solid black
+}
+
+h2:hover {
+    color: rgb(80, 128, 8);
+    background: blue
+}
+
+h3 {
+    background-color: yellow;
+    margin-top: 10px;
+    padding: 80px
+}
+
+img {
+    width: 40%;
+    height: 30%
+}
+
+#hello {
+    text-align: center;
+}
+
+.world {
+    background-image: url(http://www.fete-ecoles.fr/media/k2/items/cache/91650abe72b74891ce17dffa3726f716_XL.jpg);
+    display: grid;
+    position: relative;
+    border: 3px;
+    color: yallow;
+    height: 200px;
+    background-color: transparent;
+    height:300px ;
+}
+
+h3,img {
+    background: khaki;
+    display: inherit
+}
+
+#mpd {
+    display: block
+}
+
+#hala {
+    background: indianred
+}
+
+#kolo {
+    background-color: black;
+}
+
+#lota {
+    border: 1px solid black;
+    margin-right: 10px;
+    background-color: chocolate;
+    margin-left:10px
+}
+#lota{
+    width:1000px;
+    height:800px;
+    background-color:blueviolet;
+    border: 5px solid black;
+
+}
+
+.red{color:palevioletred;
+    font-weight:bold;
+    font-size: 20px;
+    background-color: aqua
+       }
+ #jojo{
+     background-color:gray;
+     color:white;
+     padding:16px;
+     font-size: 16px;
+     border:none;
+     cursor: pointer;
+ }      
+ #jojo:hover,#jojo:focus{
+     background-color: bisque
+ }
+ #menu{
+     position: relative;
+     display: inline-block;
+ }
+ #submenu{
+     display:none;
+     position:absolute;
+     background-color: #3e8e41;
+     min-width: 160px;
+     box-shadow:0px 8px 16px 0px rgba(0.0.0.0.2)
+ }
+ #submenu a{
+     color:white;
+     padding:12px 16px;
+     text-decoration: none;
+     display: block;
+ }
+ #submenu a:hover{
+     background-color: yallow;
+ }
+#smiley{
+    float:right;
+    width: 500px;
+    height: 760px;
+    background-color: transparent;
+}
+table,th,td{
+    border:solid black 2px;
+    border-spacing: 1px;
+}
+#img{
+    float: right;
+    border-radius: 40%;
+    box-shadow:5px ;
+    position: relative;
+    cursor: pointer;
+    
+}

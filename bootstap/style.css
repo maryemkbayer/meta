@@ -1,0 +1,15 @@
+.header{
+    margin:50px;
+    text-align: center;
+}
+.frame{
+    overflow:hidden;
+    height:220px;
+    margin-top: 20px;
+}
+body{
+    padding-bottom: 200px;
+}
+.para{
+    margin-top: 50px
+}
